@@ -1,0 +1,16 @@
+@import "bootswatch/dist/journal/bootstrap.min.css";
+
+.jumbotron {
+  padding: 4rem 2rem;
+  margin-bottom: 2rem;
+  background-color: var(--bs-light);
+  border-radius: 0.3rem;
+}
+
+body {
+  background-image: url("./assets/Fondo.jpg");
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  min-height: 100vh;
+}
